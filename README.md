@@ -1,1 +1,1 @@
-# .my-config
+# dot-config
